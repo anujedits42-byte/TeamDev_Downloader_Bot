@@ -25,7 +25,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Terabox  ▸ Vimeo  ▸ SoundCloud  ▸ Spotify\n\n"
             "━━━━━━━━━━━━\n"
             "Built by {team_name}  ·  Dev: {dev_name}\n"
-            "<i>Issues? Contact @MR_ARMAN_08</i>"
+            "<i>Issues? Contact @anujedits76</i>"
         ),
         "btn_download_now": "▸ Download",        "btn_help":         "◆ Help",        "btn_premium":      "★ Premium",        "btn_referral":     "◇ Referral",        "btn_language":     "◈ Language",        "help_text": (            "◆ Help Guide\n"
             "━━━━━━━━━━━━\n"
@@ -35,7 +35,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "◆ Refer friends → earn bonus downloads\n"
             "◆ Upgrade to Premium for unlimited access\n\n"
             "━━━━━━━━━━━━\n"
-            "<i>Support: @MR_ARMAN_08</i>"
+            "<i>Support: @anujedits76</i>"
         ),
         "premium_text": (            "★ TeamDev Premium\n"
             "━━━━━━━━━━━━\n"
@@ -45,7 +45,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Ad-Free Experience\n"
             "▸ Priority Support\n"
             "━━━━━━━━━━━━\n"
-            "Contact @MR_ARMAN_08 to upgrade."
+            "Contact @anujedits76 to upgrade."
         ),
         "referral_text": (            "◇ Your Referral Link\n"
             "━━━━━━━━━━━━\n"
@@ -63,7 +63,7 @@ STRINGS: dict[str, dict[str, str]] = {
         ),
         "banned_msg": (            "◆ Access Denied\n\n"
             "▸ You have been banned from this bot.\n"
-            "▸ Contact @MR_ARMAN_08 to appeal."
+            "▸ Contact @anujedits76 to appeal."
         ),
         "choose_platform": (            "◆ Select Platform\n\n"
             "<i>Choose where to download from:</i>"
@@ -91,7 +91,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Terabox  ▸ Vimeo  ▸ SoundCloud  ▸ Spotify\n\n"
             "━━━━━━━━━━━━\n"
             "Banaya: {team_name}  ·  Dev: {dev_name}\n"
-            "<i>Madad ke liye @MR_ARMAN_08</i>"
+            "<i>Madad ke liye @anujedits76</i>"
         ),
         "btn_download_now": "▸ Download",        "btn_help":         "◆ Sahayata",        "btn_premium":      "★ Premium",        "btn_referral":     "◇ Referral",        "btn_language":     "◈ Bhasha",        "help_text": (            "◆ Sahayata\n"
             "━━━━━━━━━━━━\n"
@@ -100,7 +100,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "◆ Daily Limit: <code>{limit}</code> downloads\n"
             "◆ Dosto ko refer karo → bonus downloads\n"
             "◆ Premium mein unlimited access\n\n"
-            "<i>Support: @MR_ARMAN_08</i>"
+            "<i>Support: @anujedits76</i>"
         ),
         "premium_text": (            "★ TeamDev Premium\n"
             "━━━━━━━━━━━━\n"
@@ -110,7 +110,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Ads-Free\n"
             "▸ Priority Support\n"
             "━━━━━━━━━━━━\n"
-            "Upgrade ke liye @MR_ARMAN_08 se sampark karein."
+            "Upgrade ke liye @anujedits76 se sampark karein."
         ),
         "referral_text": (            "◇ Aapka Referral Link\n"
             "━━━━━━━━━━━━\n"
@@ -128,7 +128,7 @@ STRINGS: dict[str, dict[str, str]] = {
         ),
         "banned_msg": (            "◆ Access Denied\n\n"
             "▸ Aapko ban kar diya gaya hai.\n"
-            "▸ Appeal ke liye @MR_ARMAN_08 se sampark karein."
+            "▸ Appeal ke liye @anujedits76 se sampark karein."
         ),
         "choose_platform": "◆ Platform Chunein\n\n<i>Kahan se download karna hai:</i>",        "platform_selected": "◆ {platform} Chuna Gaya\n\n<i>{platform} link bhejein:</i>",        "fetching": "◆ {platform} se la raha hoon...\n<i>Thoda intezaar karein.</i>",        "auto_detected": "◆ Auto-detect: {platform}\n<i>Fetch ho raha hai...</i>",        "download_ready": (            "◆ Download Taiyar\n"
             "━━━━━━━━━━━━\n"
@@ -150,7 +150,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Terabox  ▸ Vimeo  ▸ SoundCloud  ▸ Spotify\n\n"
             "━━━━━━━━━━━━\n"
             "Создан: {team_name}  ·  Dev: {dev_name}\n"
-            "<i>Помощь: @MR_ARMAN_08</i>"
+            "<i>Помощь: @anujedits76</i>"
         ),
         "btn_download_now": "▸ Скачать",        "btn_help":         "◆ Помощь",        "btn_premium":      "★ Премиум",        "btn_referral":     "◇ Реферал",        "btn_language":     "◈ Язык",        "help_text": (            "◆ Справка\n"
             "━━━━━━━━━━━━\n"
@@ -158,7 +158,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Или сразу отправьте ссылку\n\n"
             "◆ Дневной лимит: <code>{limit}</code>\n"
             "◆ Приглашайте друзей → бонусные загрузки\n\n"
-            "<i>Поддержка: @MR_ARMAN_08</i>"
+            "<i>Поддержка: @anujedits76</i>"
         ),
         "premium_text": (            "★ TeamDev Премиум\n"
             "━━━━━━━━━━━━\n"
@@ -167,7 +167,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Без рекламы\n"
             "▸ Приоритетная поддержка\n"
             "━━━━━━━━━━━━\n"
-            "Написать @MR_ARMAN_08 для апгрейда."
+            "Написать @anujedits76 для апгрейда."
         ),
         "referral_text": (            "◇ Ваша реферальная ссылка\n"
             "━━━━━━━━━━━━\n"
@@ -191,7 +191,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ Facebook  ▸ Twitter  ▸ Terabox  ▸ Spotify\n\n"
             "━━━━━━━━━━━━\n"
             "طُوِّر بواسطة {team_name}\n"
-            "<i>للمساعدة: @MR_ARMAN_08</i>"
+            "<i>للمساعدة: @anujedits76</i>"
         ),
         "btn_download_now": "▸ تحميل",        "btn_help":         "◆ مساعدة",        "btn_premium":      "★ مميز",        "btn_referral":     "◇ إحالة",        "btn_language":     "◈ اللغة",        "help_text": (            "◆ دليل الاستخدام\n"
             "━━━━━━━━━━━━\n"
@@ -199,7 +199,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ أو أرسل الرابط مباشرةً\n\n"
             "◆ الحد اليومي: <code>{limit}</code> تحميلات\n"
             "◆ ادعُ أصدقاءك → تحميلات إضافية\n\n"
-            "<i>الدعم: @MR_ARMAN_08</i>"
+            "<i>الدعم: @anujedits76</i>"
         ),
         "premium_text": (            "★ TeamDev مميز\n"
             "━━━━━━━━━━━━\n"
@@ -207,7 +207,7 @@ STRINGS: dict[str, dict[str, str]] = {
             "▸ بدون إعلانات\n"
             "▸ دعم أولوية\n"
             "━━━━━━━━━━━━\n"
-            "تواصل مع @MR_ARMAN_08 للترقية."
+            "تواصل مع @anujedits76 للترقية."
         ),
         "referral_text": (            "◇ رابط الإحالة الخاص بك\n"
             "━━━━━━━━━━━━\n"
